@@ -1,4 +1,4 @@
-var nome = "José Breno"
+var nome = "José Breeno"
 var idade = 23
 var ealuno = true
 var datanascimento
