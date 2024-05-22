@@ -1,5 +1,5 @@
 var qg = prompt("Digite a quantidade de gols");
-var qpc = prompt("Digite a quantidade de passes certos");
+var qpc = prompt("Digite a quantidade de passes ceertos");
 var qpe = prompt("Digite a quantidade de passes errados");
 
 
