@@ -8,7 +8,7 @@ var datanascimento
 document.write(typeof nome, '<br/>')
 document.write(typeof idade, '<br/>')
 document.write(typeof ealuno, '<br/>')
-document.write(typeof datanascimento)
+
 
 
 
